@@ -1,0 +1,13 @@
+---
+title: This is pan's second blog post!
+published_at: 2025-03-14
+snippet: wooly is my best friend so far
+disable_html_sanitization: true
+allow_math: true
+---
+
+# Woolworths vegetable section!!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/esvnRy8RSuM?si=VUOMPU81woR2MF9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Woolworths is near my place, so it is convenient to go there. I visit the vegetable section the most because you know, we can't live without vegetables.
