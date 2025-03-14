@@ -1,5 +1,5 @@
 ---
-title: This is pan first blog post!
+title: This is the first blog post!
 published_at: 2025-03-14
 snippet: An example of a blog post.
 disable_html_sanitization: true
@@ -8,7 +8,7 @@ allow_math: true
 
 # This is h1
 
-![my photo](static/IMG_9253.PNG)
+![a drippy lemon](logo.svg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 

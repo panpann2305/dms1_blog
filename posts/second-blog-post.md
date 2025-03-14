@@ -1,12 +1,12 @@
 ---
-title: This is a blog post!
-published_at: 2025-03-03
-snippet: An example of a blog post.
+title: This is pan first blog post!
+published_at: 2025-03-14
+snippet: wow it's my first time coding
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is the heading!!
+# Scavenger hunt!!
 
-This is some content.
+![scavenger hunt]()
 
