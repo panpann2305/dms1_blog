@@ -8,5 +8,9 @@ allow_math: true
 
 # Scavenger hunt!!
 
-![scavenger hunt]()
-
+![scavenger hunt](IMG_9754.png)
+![scavenger hunt](IMG_9755.png)
+![scavenger hunt](IMG_9756.png)
+![scavenger hunt](IMG_9757.png)
+![scavenger hunt](IMG_9758.png)
+![scavenger hunt](IMG_9759.png)
