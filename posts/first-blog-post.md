@@ -16,4 +16,4 @@ allow_math: true
 ![scavenger hunt](IMG_9757.PNG)
 ![scavenger hunt](IMG_9758.PNG)
 ![scavenger hunt](IMG_9759.PNG)
-*rmmit is so cool*
+*rmit is so cool*
