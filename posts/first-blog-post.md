@@ -1,6 +1,6 @@
 ---
 title: This is pan first blog post!
-published_at: 2025-14-03
+published_at: 2025-03-14
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
