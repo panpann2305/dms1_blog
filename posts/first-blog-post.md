@@ -9,11 +9,16 @@ allow_math: true
 # Scavenger hunt!!
 
 ![scavenger hunt](IMG_9754.PNG)
+
 ![scavenger hunt](IMG_9755.PNG)
-*the net is so cool*
+*the net is so beautiful, i really love it*
+
 ![scavenger hunt](IMG_9756.PNG)
 *did u actually see the golden ball???*
+
 ![scavenger hunt](IMG_9757.PNG)
+
 ![scavenger hunt](IMG_9758.PNG)
+
 ![scavenger hunt](IMG_9759.PNG)
-*rmit is so cool*
+*rmit is so coolllll*
