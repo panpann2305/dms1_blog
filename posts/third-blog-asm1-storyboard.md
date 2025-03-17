@@ -5,7 +5,7 @@ snippet: the asm1 is almost here, excited but a litte bit nervous
 disable_html_sanitization: true
 allow_math: true
 ---
-![Blog banner](banner blog.png)
+<img src="static/banner blog.jpg" alt="Blog Banner" width="100%" />
 
 # Storyboard for asm1 video
 
