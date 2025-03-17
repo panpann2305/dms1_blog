@@ -8,17 +8,17 @@ allow_math: true
 
 # Scavenger hunt!!
 
-![scavenger hunt](static/IMG_9754.PNG)
+![scavenger hunt](static/scavenger/IMG_9754.PNG)
 
-![scavenger hunt](static/IMG_9755.PNG)
+![scavenger hunt](static/scavenger/IMG_9755.PNG)
 *the net is so beautiful, i really love it*
 
-![scavenger hunt](static/IMG_9756.PNG)
+![scavenger hunt](static/scavenger/IMG_9756.PNG)
 
-![scavenger hunt](static/IMG_9757.PNG)
+![scavenger hunt](static/scavenger/IMG_9757.PNG)
 *did u actually see the golden ball???*
 
-![scavenger hunt](static/IMG_9758.PNG)
+![scavenger hunt](static/scavenger/IMG_9758.PNG)
 
-![scavenger hunt](static/IMG_9759.PNG)
+![scavenger hunt](static/scavenger/IMG_9759.PNG)
 *rmit is so coolllll*
