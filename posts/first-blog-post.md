@@ -6,8 +6,6 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<div class="banner">Welcome to My Blog</div>
-
 # Scavenger hunt!!
 
 ![scavenger hunt](scavenger/IMG_9754.PNG)

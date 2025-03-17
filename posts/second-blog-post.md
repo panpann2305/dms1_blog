@@ -6,8 +6,6 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<div class="banner">Welcome to My Blog</div>
-
 # Woolworths vegetable section!!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esvnRy8RSuM?si=VUOMPU81woR2MF9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
