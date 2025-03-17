@@ -10,7 +10,7 @@ allow_math: true
 
 ![storyboard](storyboard/IMG_0007.JPG)
 ![storyboard](storyboard/IMG_0008.JPG)
-![storyboard](storyboard/IMG_0009.JPG)
+![storyboard](storyboard/IMG_0015.jpg)
 
 My idea for the asm1 video is to create a short story about what makes me, ME! It will describe my hobbys, what i usually do, what is important to me, etc.
 
