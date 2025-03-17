@@ -20,4 +20,4 @@ allow_math: true
 
 </script>
 
-Woolworths is near my place, so it is convenient to go there. I visit the vegetable section the most because you know, we can't live without vegetables.
+Woolworths is near my place, so it is convenient to go there. I visit the vegetable section the most because I can't survive without vegetables. Their is a variety of vegetable and they are all fresh and affordable!
