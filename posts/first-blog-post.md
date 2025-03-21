@@ -1,6 +1,6 @@
 ---
 title: This is pan's first blog post!
-published_at: 2025-03-14
+published_at: 2025-03-13
 snippet: wow it's my first time coding
 disable_html_sanitization: true
 allow_math: true
