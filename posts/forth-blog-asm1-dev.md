@@ -8,9 +8,7 @@ allow_math: true
 
 # Important things about my video
 
-## Key moment
-
-It is the opening, of course!
+## Key moment: It is the opening, of course!
 
 ### Combination of visual and sound
 
