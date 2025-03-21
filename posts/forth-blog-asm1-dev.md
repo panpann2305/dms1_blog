@@ -1,5 +1,5 @@
 ---
-title: This is pan's forth blog post!
+title: This is pan's fourth blog post!
 published_at: 2025-03-21
 snippet: the asm1 is almost done!
 disable_html_sanitization: true
