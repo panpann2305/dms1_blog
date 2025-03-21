@@ -1,6 +1,6 @@
 ---
 title: EXAMPLE
-published_at: 2025-03-14
+published_at: 2025-03-10
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
