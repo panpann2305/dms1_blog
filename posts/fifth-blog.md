@@ -24,7 +24,7 @@ allow_math: true
 
 </script>
 
-![week 3 ses 1](static/week 3 ses 1.jpg)
+![week 3 ses 1](week 3 ses 1.jpg)
 
 # Homework Tasks
 
