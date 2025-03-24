@@ -13,4 +13,4 @@ Through the presentation, I have a clear vision of how to edit my video using fa
 
 ## Practicing editing techniques!!
 
-![w1s2](week 1 ses 2.png)
+![w1s2](classroomactivities/week 1 ses 2.png)
