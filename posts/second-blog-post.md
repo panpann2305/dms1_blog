@@ -1,23 +1,16 @@
 ---
 title: This is pan's second blog post!
 published_at: 2025-03-14
-snippet: wooly is my best friend so far
+snippet: wooly is my best friend so far (week 1 session 2)
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# Woolworths vegetable section!!
+# Classroom Activities
+Through the presentation, I have a clear vision of how to edit my video using fade and cut technique, also know how to use visual images to represent me.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/esvnRy8RSuM?si=VUOMPU81woR2MF9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Homework Tasks
 
-<script type="module">
+## Practicing editing techniques!!
 
-    console.log (`hello world! 🚀`)
-
-    const iframe  = document.getElementById (`coding_train_video`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16
-
-</script>
-
-Woolworths is near my place, so it is convenient to go there. I visit the vegetable section the most because I can't survive without vegetables. Their is a variety of vegetable and they are all fresh and affordable!
+![w1s2](static/week 1 ses 2.png)
