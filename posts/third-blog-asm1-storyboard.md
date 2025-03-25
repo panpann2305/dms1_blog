@@ -6,11 +6,11 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Classroom Activities
+# ✿ Classroom Activities
 - I learn about the importance of a continuity in videos and how to maintain it.
 - I know how to make an efficient storyboard and create a video based on that.
 
-# Homework Tasks
+# ✿ Homework Tasks
 
 ## Storyboard for asm1 video
 

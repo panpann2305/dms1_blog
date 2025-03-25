@@ -1,12 +1,12 @@
 ---
 title: Hi, I'm Pan!
 published_at: 2025-03-05
-snippet: Click to know more about me
+snippet: Click to know more about me ⋆𐙚₊˚⊹♡
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# Who am I
+# ✿ Who am I
 
 ![me](introduction/IMG_8986.jpg)
 
@@ -14,7 +14,7 @@ Hello everyone, I'm An aka Pan, an Vietnamese girl now studying Digital Media at
 
 My life motto is: **Trust yourself, everything will be allright!**
 
-# What am I made of
+# ✿ What am I made of
 
 - Pink
 - Cute things (trinkets, plushies, toys,...)
@@ -28,7 +28,7 @@ My life motto is: **Trust yourself, everything will be allright!**
 - PR, PS, AI, AE, Blender, (more in the future)
 - Love from my lovers
 
-# Me on social platforms
+# ✿ Me on social platforms
 
 ## Instagram:
 - Main account: [_.pann.__](https://www.instagram.com/_.pann.__/)
@@ -36,7 +36,8 @@ My life motto is: **Trust yourself, everything will be allright!**
 - Design account: [chaothicve](https://www.instagram.com/chaothicve/)
 
 ## Youtube:
-[a pan with an egg](https://www.youtube.com/@apanwithanegg)
+- [a pan with an egg](https://www.youtube.com/@apanwithanegg)
 
 
+# ♡ So, do you want to know anything more about me? Let's be friends!!!!
 

@@ -6,10 +6,10 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Classroom Activities
+# ✿ Classroom Activities
 It is really interesting to learn about sounds (it's kinda my first time). This is my first time heard words such as: materialisation, synchresis, misattribution, diagetic / nondiegetic, reactive attention, volitional attention, etc. I realized that the small details I saw in videos actually has it's importance and can strongly impact the audience.
 
-# Homework Tasks
+# ✿ Homework Tasks
 
 ## Important things about my video
 

@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Classroom Activities
+# ✿ Classroom Activities
 - I was surprised on how music effects our feelings, the video we watched in class (the changes of music in a Lion King's scene) make me realised that.
 - I gain many useful sound editing technique that can be applied in my videos.
 
@@ -26,7 +26,7 @@ allow_math: true
 
 ![week 3 ses 1](classroomactivities/week3ses1.jpg)
 
-# Homework Tasks
+# ✿ Homework Tasks
 
 ## Draft video
 

@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Classroom Activities
+# ✿ Classroom Activities
 
 ## Scavenger hunt!!
 
@@ -28,7 +28,7 @@ It is really fun when we actually have chances to explore RMIT through this hard
 *rmit is so coolllll*
 
 
-# Homework Tasks
+# ✿ Homework Tasks
 
 ## 30s video!!
 

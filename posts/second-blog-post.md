@@ -6,10 +6,10 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Classroom Activities
+# ✿ Classroom Activities
 Through the presentation, I have a clear vision of how to edit my video using fade and cut technique, also know how to use visual images to represent me.
 
-# Homework Tasks
+# ✿ Homework Tasks
 
 ## Practicing editing techniques!!
 
