@@ -1,7 +1,7 @@
 ---
 title: This is pan's sixth blog post!
 published_at: 2025-03-24
-snippet: it's time for submission (week 3 session 2)
+snippet: It's time for submission (week 3 session 2)
 disable_html_sanitization: true
 allow_math: true
 ---

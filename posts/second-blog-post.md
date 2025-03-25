@@ -1,7 +1,7 @@
 ---
 title: This is pan's second blog post!
 published_at: 2025-03-14
-snippet: wooly is my best friend so far (week 1 session 2)
+snippet: Wooly is my best friend so far (week 1 session 2)
 disable_html_sanitization: true
 allow_math: true
 ---

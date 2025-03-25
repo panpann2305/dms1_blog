@@ -1,7 +1,7 @@
 ---
 title: This is pan's first blog post!
 published_at: 2025-03-13
-snippet: wow it's my first time coding (week 1 session 1)
+snippet: Wow it's my first time coding (week 1 session 1)
 disable_html_sanitization: true
 allow_math: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: This is pan's fifth blog post!
 published_at: 2025-03-23
-snippet: assignment 1 99% loading... (week 3 session 1)
+snippet: Assignment 1 99% loading... (week 3 session 1)
 disable_html_sanitization: true
 allow_math: true
 ---
