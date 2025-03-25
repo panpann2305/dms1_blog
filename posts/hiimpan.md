@@ -26,7 +26,7 @@ My life motto is: **Trust yourself, everything will be allright!**
 - Creativity
 - Design, design, design
 - PR, PS, AI, AE, Blender, (more in the future)
-- Love from my lovers
+- Love from my loved ones
 
 # ✿ Me on social platforms
 
