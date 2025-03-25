@@ -39,5 +39,5 @@ My life motto is: **Trust yourself, everything will be allright!**
 - [a pan with an egg](https://www.youtube.com/@apanwithanegg)
 
 
-**✿ So, do you want to know anything more about me? Let's be friends!!!!**
+## **✿ So, do you want to know anything more about me? Let's be friends!!!!**
 
