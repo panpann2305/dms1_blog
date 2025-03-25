@@ -9,7 +9,7 @@ export const handler: Handlers<Post[]> = {
 };
 
 export default function BlogIndexPage(props: PageProps<Post[]>) {
-  const posts = props.data;
+  const posts = props.data.reverse();
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
       <h1 class="text-5xl font-bold">Blog</h1>
