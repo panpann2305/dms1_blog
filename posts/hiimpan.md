@@ -12,7 +12,7 @@ allow_math: true
 
 Hello everyone, I'm An, also known as Pan, a Vietnamese girl currently studying Digital Media at RMIT Melbourne. As an ENFP-T, I'm always bursting with energy—both in real life and in my design work. I discovered my passion for design in high school, and now I'm on a journey to explore and immerse myself in the vast world of design. No matter how big or small, successful or unsuccessful, I believe that every experience along the way is a wonderful part of my life.
 
-My life motto is: **Trust yourself, everything will be allright!**
+My life motto is: **Trust yourself, everything will be alright!**
 
 # ✿ What am I made of?
 
