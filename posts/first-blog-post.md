@@ -23,8 +23,6 @@ It is really fun when we actually have chances to explore RMIT through this hard
 *did u actually see the golden ball???*
 
 ![scavenger hunt](scavenger/IMG_9758.jpg)
-
-![scavenger hunt](scavenger/IMG_9759.jpg)
 *rmit is so coolllll*
 
 

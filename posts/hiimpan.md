@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# ✿ Who am I
+# ✿ Who am I?
 
 ![me](introduction/IMG_8986.jpg)
 
@@ -14,7 +14,7 @@ Hello everyone, I'm An aka Pan, an Vietnamese girl now studying Digital Media at
 
 My life motto is: **Trust yourself, everything will be allright!**
 
-# ✿ What am I made of
+# ✿ What am I made of?
 
 - Pink
 - Cute things (trinkets, plushies, toys,...)
@@ -39,5 +39,5 @@ My life motto is: **Trust yourself, everything will be allright!**
 - [a pan with an egg](https://www.youtube.com/@apanwithanegg)
 
 
-# ♡ So, do you want to know anything more about me? Let's be friends!!!!
+**✿ So, do you want to know anything more about me? Let's be friends!!!!**
 

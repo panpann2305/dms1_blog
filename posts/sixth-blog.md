@@ -6,10 +6,10 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Classroom Activities
+# ✿ Classroom Activities
 I really appreciate the comments of Thomas and my classmates about my assignment video. Those comments are useful, help me to be open - minded and be more creative in my work.
 
-# Results of working, trying, fixing and satisfying
+# ✿ Results of working, trying, fixing then satisfying
 
 <iframe width="946" height="532" src="https://www.youtube.com/embed/K1QuebNPIqo" title="What makes me, ME!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
