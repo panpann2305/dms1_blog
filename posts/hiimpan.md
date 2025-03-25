@@ -10,7 +10,7 @@ allow_math: true
 
 ![me](introduction/IMG_8986.jpg)
 
-Hello everyone, I'm An aka Pan, an Vietnamese girl now studying Digital Media at RMIT Melbourne. My MBTI type is ENFP-T, so you can see that I’m always full of energy, both in real life and in my design works. I discovered my passion for design in high school, and now I’m on a journey to explore and experience the vast world of design. I hope that those experiences, whether big or small, successful or unsuccessful, are still wonderful things in my life.
+"Hello everyone, I'm An, also known as Pan, a Vietnamese girl currently studying Digital Media at RMIT Melbourne. As an ENFP-T, I'm always bursting with energy—both in real life and in my design work. I discovered my passion for design in high school, and now I'm on a journey to explore and immerse myself in the vast world of design. No matter how big or small, successful or unsuccessful, I believe that every experience along the way is a wonderful part of my life."
 
 My life motto is: **Trust yourself, everything will be allright!**
 
@@ -37,6 +37,8 @@ My life motto is: **Trust yourself, everything will be allright!**
 
 ## Youtube:
 - [a pan with an egg](https://www.youtube.com/@apanwithanegg)
+
+
 
 
 ## *✿ So, do you want to know anything more about me? Let's be friends!!!!*
