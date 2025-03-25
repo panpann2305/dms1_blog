@@ -33,7 +33,7 @@ My life motto is: Trust yourself, everything will be allright!
 ## Instagram:
 - Main acc: [_.pann.__](https://www.instagram.com/_.pann.__/)
 - Photography acc: [chaochupachup](https://www.instagram.com/chaochupachup/)
-- Design acc: [chaochupachup](https://www.instagram.com/chaothicve/)
+- Design acc: [chaothicve](https://www.instagram.com/chaothicve/)
 
 ## Youtube:
 [a pan with an egg](https://www.youtube.com/@apanwithanegg)
