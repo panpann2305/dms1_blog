@@ -1,7 +1,7 @@
 ---
 title: This is pan's fourth blog post!
 published_at: 2025-03-21
-snippet: The asm1 is almost done! (week 2 session 2)
+snippet: The asm1 is almost done ᯓ★ (week 2 session 2)
 disable_html_sanitization: true
 allow_math: true
 ---

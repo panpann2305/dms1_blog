@@ -1,7 +1,7 @@
 ---
 title: This is pan's third blog post!
 published_at: 2025-03-17
-snippet: The asm1 is almost here, excited but a litte bit nervous (week 2 session 1)
+snippet: The asm1 is almost here, excited but a litte bit nervous (｡•̀ᴗ-)✧ (week 2 session 1)
 disable_html_sanitization: true
 allow_math: true
 ---
