@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Pan ♡
+title: ✿ Hi, I'm Pan ✿
 published_at: 2025-03-05
 snippet: Click to know more about me ⋆𐙚₊˚⊹♡
 disable_html_sanitization: true
@@ -10,7 +10,7 @@ allow_math: true
 
 ![me](introduction/IMG_8986.jpg)
 
-"Hello everyone, I'm An, also known as Pan, a Vietnamese girl currently studying Digital Media at RMIT Melbourne. As an ENFP-T, I'm always bursting with energy—both in real life and in my design work. I discovered my passion for design in high school, and now I'm on a journey to explore and immerse myself in the vast world of design. No matter how big or small, successful or unsuccessful, I believe that every experience along the way is a wonderful part of my life."
+Hello everyone, I'm An, also known as Pan, a Vietnamese girl currently studying Digital Media at RMIT Melbourne. As an ENFP-T, I'm always bursting with energy—both in real life and in my design work. I discovered my passion for design in high school, and now I'm on a journey to explore and immerse myself in the vast world of design. No matter how big or small, successful or unsuccessful, I believe that every experience along the way is a wonderful part of my life.
 
 My life motto is: **Trust yourself, everything will be allright!**
 
