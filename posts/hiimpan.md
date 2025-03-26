@@ -1,5 +1,5 @@
 ---
-title: ✿ Hi, I'm Pan ✿
+title: Hi, I'm Pan &#x273F;   <!-- ✿ Black Florette -->
 published_at: 2025-03-05
 snippet: Click to know more about me ⋆𐙚₊˚⊹♡
 disable_html_sanitization: true
