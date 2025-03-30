@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# ♡ Who am I?
+# ✿ Who am I?
 
 ![me](introduction/IMG_8986.jpg)
 
