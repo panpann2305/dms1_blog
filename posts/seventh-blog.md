@@ -22,6 +22,9 @@ I completed watching 3 chapters and I learned how to use the shortcuts properly 
 
 ## 4 black square activty
 
+![week 4 ses 1](homeworktasks/week4ses1bs.png)
+
+
 ## Assignment 2 brainstorming
 
 I'm interested in the "Dream" concept.
