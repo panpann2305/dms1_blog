@@ -11,7 +11,7 @@ allow_math: true
 I think the 1st one on the 2nd row is the most effective because humans include variety of people.
 
 # ✿ Homework Tasks
-![week 4 ses 2](classroomactivities/w4s2iconsdraft.png)
+![week 4 ses 2](homeworktasks/week4ses2icon.png)
 The ones with a red circle around them are my choices for each icon.
 
 ## Comments on the thumbnail sketches
