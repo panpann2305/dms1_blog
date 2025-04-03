@@ -1,7 +1,7 @@
 ---
-title: This is pan's fifth blog post!
+title: This is pan's eighth blog post!
 published_at: 2025-04-02
-snippet: Creation explode .𖥔 ݁ ˖ ϟ ⚡︎ (week 4 session 2)
+snippet: Creation explode .𖥔 ݁ ˖ ϟ (week 4 session 2)
 disable_html_sanitization: true
 allow_math: true
 ---
