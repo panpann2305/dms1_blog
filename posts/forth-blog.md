@@ -31,5 +31,5 @@ It is really interesting to learn about sounds (it's kinda my first time). This 
 
 ## Updated version of my storyboard
 
-![storyboard ver 2](storyboardver2/IMG_0119.jpg)
-![storyboard ver 2](storyboardver2/IMG_0118.jpg)
+![storyboard ver 2](homeworktasks/storyboardver2/IMG_0119.jpg)
+![storyboard ver 2](homeworktasks/storyboardver2/IMG_0118.jpg)

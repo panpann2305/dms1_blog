@@ -14,9 +14,9 @@ allow_math: true
 
 ## Storyboard for asm1 video
 
-![storyboard](storyboard/IMG_0007.JPG)
-![storyboard](storyboard/IMG_0008.JPG)
-![storyboard](storyboard/IMG_0015.jpg)
+![storyboard](homeworktasks/storyboard/IMG_0007.JPG)
+![storyboard](homeworktasks/storyboard/IMG_0008.JPG)
+![storyboard](homeworktasks/storyboard/IMG_0015.jpg)
 
 My idea for the asm1 video is to create a short story about what makes me, ME! It will describe my hobbys, what i usually do, what is important to me, etc.
 
