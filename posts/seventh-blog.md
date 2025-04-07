@@ -37,9 +37,9 @@ I'm interested in the "Dream" concept.
 - **Platform**: Iphone
 - **Context**: An app to record, discover, improve and share your dreams
 - **Audience**:
-+ Age: 18 - 25
++ Age: 20
 + Have interest in dreams (their meanings, how to control it, want to discover more aspects about it, etc)
-+ Background: Who dreams a lot, especially having nightmares and want to get rid of it
++ Background: A girl, long straight hair, slim, blue eyes, like cute things, like blueberrys and bananas, like to write and read, curious about everything, dream a lot
 
 
 
