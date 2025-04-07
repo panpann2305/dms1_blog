@@ -12,17 +12,17 @@ allow_math: true
 
 It is really fun when we actually have chances to explore RMIT through this hard but interesting game.
 
-![scavenger hunt](scavenger/IMG_9754.jpg)
+![scavenger hunt](classroomactivities/scavenger/IMG_9754.jpg)
 
-![scavenger hunt](scavenger/IMG_9755.jpg)
+![scavenger hunt](classroomactivities/scavenger/IMG_9755.jpg)
 *the net is so beautiful, i really love it*
 
-![scavenger hunt](scavenger/IMG_9756.jpg)
+![scavenger hunt](classroomactivities/scavenger/IMG_9756.jpg)
 
-![scavenger hunt](scavenger/IMG_9757.jpg)
+![scavenger hunt](classroomactivities/scavenger/IMG_9757.jpg)
 *did u actually see the golden ball???*
 
-![scavenger hunt](scavenger/IMG_9758.jpg)
+![scavenger hunt](classroomactivities/scavenger/IMG_9758.jpg)
 *rmit is so coolllll*
 
 
