@@ -47,6 +47,11 @@ Dreams and nightmares are recorded over months and years, showing the progressio
 - I use mostly organic shape in my design because when it comes to "dream", we usually think of something magical, hopeful, imaginative, promissing.
 - The color palette I choose consists of blue and yellow with different shades, combining complementary and monochromatic color schemes.
 - I use smooth and hand - drawn lines.
+________________________________________
+
+ACTUALLY, after days of working, I decide to add purple into my palette and it become a split complimentary color scheme.
+
+![week 4 ses 2](homeworktasks/w4s2.png)
 
 
 
