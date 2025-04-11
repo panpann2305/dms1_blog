@@ -20,9 +20,3 @@ I think the complementary scheme works best for my icon because dreams are not s
 ![week 5 ses 1](homeworktasks/w5s1-1.png)
 ![week 5 ses 1](homeworktasks/w5s1-2.png)
 ![week 5 ses 1](homeworktasks/w5s1-3.png)
-
-________________________________________
-
-ACTUALLY, after days of working, I decide to add purple into my palette and it become a split complimentary color scheme.
-
-![week 4 ses 2](homeworktasks/w4s2.png)

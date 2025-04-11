@@ -11,8 +11,12 @@ allow_math: true
 HTML, VS Code,... are all new things to me but it is easier to understand with the instructions and help from Thomas.
 
 # ✿ Homework Tasks
+## Website's result
 ![week 5 ses 2](homeworktasks/w5s2.png)
-The result of the website.
+I decided to change the color scheme, from blue and yellow (complementary and monochromatic) to blue, purple and yellow (split-complemetary).
 
+## Watching videos
 ![week 5 ses 2](homeworktasks/w5s2-1.png)
+![week 5 ses 2](homeworktasks/w5s2-2.png)
+![week 5 ses 2](homeworktasks/w5s2-3.png)
 
