@@ -13,3 +13,6 @@ HTML, VS Code,... are all new things to me but it is easier to understand with t
 # ✿ Homework Tasks
 ![week 5 ses 2](homeworktasks/w5s2.png)
 The result of the website.
+
+![week 5 ses 2](homeworktasks/w5s2-1.png)
+
