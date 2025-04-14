@@ -7,6 +7,7 @@ allow_math: true
 ---
 
 # ✿ Classroom Activities
+![week 6 ses 1](classroomactivities/w6s1.PNG)
 
 # ✿ Homework Tasks
 
