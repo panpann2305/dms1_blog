@@ -8,6 +8,7 @@ allow_math: true
 
 # ✿ Classroom Activities
 ![week 6 ses 1](classroomactivities/w6s1.PNG)
+This is my first time touching a recorder and I find out it is really interesting. I will try it another day!!!
 
 # ✿ Homework Tasks
 
