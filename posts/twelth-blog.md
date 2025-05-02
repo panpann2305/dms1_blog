@@ -17,17 +17,17 @@ We learn how to use Unity and it was an worthy experience. The solar system is r
 This is 4 environment describe my process of learning and growing, through the 1st stage - kindergarten to the secondary school then highschool, and last but not least, university!
  3D models, sounds, spatial arrangements
 
-**Environment 1:Kindergarten** 
+**Environment 1: Kindergarten** 
 - 3D models: toys, small tables and chairs, window, cute stylize door, windows, drawings,...
 - Sounds: Kids sounds
 - Spatial arrangements: Kindergarten classroom
 
-**Environment 2:Secondary school** 
+**Environment 2: Secondary school** 
 - 3D models: classroom door, windows, black board, tables and chairs, (note) books, stationary,...
 - Sounds: School bell sound
 - Spatial arrangements: Secondary school classroom
 
-**Environment 3:High school**
+**Environment 3: High school**
 - 3D models: buildings, plants, yard, balls, classroom door, chairs,...
 - Sounds: Playing basketball sound
 - Spatial arrangements: Highschool yard
