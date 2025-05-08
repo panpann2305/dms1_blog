@@ -1,7 +1,7 @@
 ---
 title: This is pan's thirtheen blog post!
 published_at: 2025-05-04
-snippet: I'm having fun with 3D heh (week 7 session 2)
+snippet: I'm having fun with 3D heh (,,>ヮ<,,)! (week 7 session 2)
 disable_html_sanitization: true
 allow_math: true
 ---
