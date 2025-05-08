@@ -7,14 +7,14 @@ allow_math: true
 ---
 
 # ✿ Classroom Activities
-![week 7 ses 2](classroomactivities/week7/w7s2.jpg)
+![week 7 ses 2](classroomactivities/week7/w7s2.png)
 
 We learned how to add materials to 3D objects, and I realized that you can create almost anything with 3D
 
 # ✿ Homework Tasks
-![week 7 ses 2](homeworktasks/week7/w7s2.PNG)
-![week 7 ses 2](homeworktasks/week7/w7s2-1.PNG)
-![week 7 ses 2](homeworktasks/week7/w7s2-2.PNG)
+![week 7 ses 2](homeworktasks/week7/w7s2.png)
+![week 7 ses 2](homeworktasks/week7/w7s2-1.png)
+![week 7 ses 2](homeworktasks/week7/w7s2-2.png)
 
 **This is my world!!!!**
 
