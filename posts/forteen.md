@@ -10,5 +10,5 @@ allow_math: true
 ![week 8 ses 1](classroomactivities/week8/w8s1.png)
 
 # ✿ Homework Tasks
-![week 8 ses 1](homeworktasks/week8/w8s1.png)
+![week 8 ses 1](homeworktasks/week8/w8s1.jpg)
 
