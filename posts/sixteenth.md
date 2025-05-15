@@ -14,8 +14,8 @@ allow_math: true
 I noticed that some of the objects are not well-proportioned, and the path isn't very user-friendly because it's easy to fall off. I plan to add fences and adjust the object scales to improve the overall balance. The lighting also feels a bit inconsistent, so I’ll make some changes to improve that as well.
 
 ## Testing result
-![week 9 ses 1](homeworktasks/week9/w9s1.jpg)
-![week 9 ses 1](homeworktasks/week9/w9s1-1.jpg)
+![week 9 ses 1](homeworktasks/week9/w9s1.png)
+![week 9 ses 1](homeworktasks/week9/w9s1-1.png)
 
 - The testers were my friends in Viet Nam
 - They understand the concept
