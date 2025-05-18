@@ -1,6 +1,6 @@
 ---
 title: This is pan's sixteen blog post!
-published_at: 2025-05-16
+published_at: 2025-05-15
 snippet: Almost done, good job pan ⋆˚𖥔 ݁ ˖𓂃.☘︎ ݁˖ (week 9 session 1)
 disable_html_sanitization: true
 allow_math: true
