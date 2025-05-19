@@ -12,7 +12,7 @@ allow_math: true
 ![week 9 ses 2](classroomactivities/week9/w9s2-2.png)
 Today was our playtesting session and I was super impressed with everyone’s worlds — they looked amazing and were so detailed! I also got some really helpful feedback on my 3D environment, so thank you so much, guys!
 
-# ✿ LAST DESCRIPTION OF "FROM DESK TO DREAM"
+# ✿ Last description of "From Desk to Dream"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4z_AgpVPl1k" title="[From Desk to Dream] Video Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -48,4 +48,4 @@ After fixing and adding details, I feel really happy with how it turned out!
 - omarelone. (2020). PUMPING HEART MODEL. Available at: https://sketchfab.com/3d-models/pumping-heart-model-6f815b9822dc479eae0a17b8dcab9c75 [Accessed 14 May 2025]
 - Replexx. (2023). Luggage. Available at: https://sketchfab.com/3d-models/luggage-d32673256bd74072812c3325df7abac7 [Accessed 14 May 2025]
 - negar. (2019). Star. Available at: https://sketchfab.com/3d-models/star-5b21e84ddc0342359cd272a9c6dd31cb [Accessed 14 May 2025]
-
+- j.a.m. (2017). Office Chair. Available at: https://sketchfab.com/3d-models/office-chair-41973aa1808d4a13b84c24497fc77c63 [Accessed 14 May 2025]
