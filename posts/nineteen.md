@@ -1,5 +1,5 @@
 ---
-title: This is pan's eighteen blog post!
+title: This is pan's nineteen blog post!
 published_at: 2025-05-25
 snippet: Figma is interesting =)) (week 10 session 2)
 disable_html_sanitization: true
