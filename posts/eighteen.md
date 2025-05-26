@@ -66,13 +66,13 @@ I use bright colors and familiar shapes to fit with the theme, and also recogniz
 I discovered some bugs that happen, and also the overview of the environment in a player’s view.
 
 ## Webpage overall structure
-**- What kind of key words do you want the user to associate with the aesthetics of your webpage?**
+**What kind of key words do you want the user to associate with the aesthetics of your webpage?**
 + Creative
 + Colorful
 + Energetic
-**- Who is the target audience?**
+**Who is the target audience?**
 + For color lovers and curious souls who enjoy exploring vibrant, interactive web pages
-**- What features will your audience want to see in your final webpage design?**
+**What features will your audience want to see in your final webpage design?**
 + Interactive elements
 + Mascot
 + Clear layout
